@@ -11,3 +11,17 @@
 
 # Resistance calculator 
 - [Resistance Calculation with picture - Turkish](http://ekinoks.cu.edu.tr/direnc/)
+
+# Will Use/Add
+- [Circuit Symbols](https://www.electronicshub.org/symbols/)
+  - Hey i'm a software engineer and have not used these in ages.
+- Find a program to draw the Circuits
+- Add Photos if possible/necessary
+- **Work with** (alreay have these)
+  - RFID/NFC
+  - Stepper, Servo and DC Motors
+  - LDR Sensor
+  - Temperature and Humidity Sensor
+  - Ultrasonic Distance Sensor
+  - Buzzer
+  - 6 Axis Acceleration and Gyro Sensor
