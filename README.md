@@ -12,6 +12,10 @@
 ## Resistance calculator 
 - [Resistance Calculation with picture - Turkish](http://ekinoks.cu.edu.tr/direnc/)
 
+### Rasbery Pi 3 GPIO Pin Layout
+- [Basic Photo for Pin/GPIO Numbers/Names](https://maker.robotistan.com/wp-content/uploads/2015/09/GPIO_Pi2.jpg)
+- [Official page of raspberrypi](https://www.raspberrypi.org/documentation/usage/gpio/)
+
 ## Will Use/Add
 - [Circuit Symbols](https://www.electronicshub.org/symbols/)
   - Hey i'm a software engineer and have not used these in ages.
