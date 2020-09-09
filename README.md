@@ -7,6 +7,11 @@
 #### Currently Working on
 - [Buzzer and Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
   - Will add code and diagram when done
+- Up next [Quick-Reaction-Game](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
+- Next - LDR Sensor
+- Next - PIR Sensor
+- Next - Ultrasonic Distance Sensor 
+- ....
 
 ### Will Use/Add
 - [Circuit Symbols](https://www.electronicshub.org/symbols/)
