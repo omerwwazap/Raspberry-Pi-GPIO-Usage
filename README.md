@@ -71,7 +71,7 @@
 - [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
 
 ## References
-
+- Diagrams all made by me using  [Fritzing](https://fritzing.org/)
 - Libraries
   - [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
   - [RPI.GPIO](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
