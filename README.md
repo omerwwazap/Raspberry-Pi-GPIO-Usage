@@ -75,6 +75,7 @@
 - Libraries
   - [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
   - [RPI.GPIO](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
+- [Official Stuff of gpiozero](https://gpiozero.readthedocs.io/en/stable/recipes.html)
 - [Light Blink Basic Physical - Turkish ](https://www.youtube.com/watch?v=IX-0KgDSU7M&list=PLDRcccSktQd6zXC4_ri_xxMsdgrH5MCPS&index=6)
   - [Code Explnaiton - Turkish ](https://www.youtube.com/watch?v=mrqEWLwpShM)
   - [Blog Post of these videos - Turkish ](https://maker.robotistan.com/raspberry-pi-dersleri-4-gpio-ile-led-kontrolu/)
