@@ -2,7 +2,9 @@
  RasberyPi Basic GPIO Usage - Hobby
 
 ### [Led Blink and Led Button Porgrams](/Led-Program):
-<img src="https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Led-Switch_bb.png" alt="Led-Switch Diagram" width="350"/>
+Led-Switch Diagram  (Guide)           |  Led-Button Diagram (Self Made Circuit and Code)
+:-------------------------:|:-------------------------:
+![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/2-Led-Button_bb.png)
 
 #### Currently Working on
 - [Buzzer and Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
