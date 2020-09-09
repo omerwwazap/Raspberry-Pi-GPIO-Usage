@@ -1,21 +1,25 @@
 # Raspberry Pi Basic GPIO
+
  RasberyPi Basic GPIO Usage - Hobby
 
 ### [Led Blink and Led Button Porgrams](/Led-Program):
-Led-Switch Diagram  (Guide)           |  Led-Button Diagram (Self Made Circuit and Code)
+
+[Led-Switch Diagram  (Guide)](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch)           |  [Led-Button Diagram (Self Made Circuit and Code)](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button)
 :-------------------------:|:-------------------------:
-![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/2-Led-Button_bb.png)
+![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png)
 
 #### Currently Working on
+
 - [Buzzer and Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
   - Will add code and diagram when done
 - Up next [Quick-Reaction-Game](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
 - Next - LDR Sensor
 - Next - PIR Sensor
-- Next - Ultrasonic Distance Sensor 
+- Next - Ultrasonic Distance Sensor
 - ....
 
 ### Will Use/Add
+
 - [Circuit Symbols](https://www.electronicshub.org/symbols/)
   - Hey i'm a software engineer and have not used these in ages.
 - Find a program to draw the Circuits
@@ -33,28 +37,32 @@ Led-Switch Diagram  (Guide)           |  Led-Button Diagram (Self Made Circuit a
   - Sound Sensor - KY-038
   - 6 Axis Acceleration and Gyro Sensor - MPU6050
 
-### Resistance calculator 
+### Resistance calculator
+
 - [Resistance Calculation with picture - Turkish](http://ekinoks.cu.edu.tr/direnc/)
 
 ### Rasbery Pi 3 GPIO Pin Layout
+
 - [Interactive Pinout Diagram.](https://pinout.xyz/#)
 - [Basic Photo for Pin/GPIO Numbers/Names](https://maker.robotistan.com/wp-content/uploads/2015/09/GPIO_Pi2.jpg)
 - [Official page of raspberrypi](https://www.raspberrypi.org/documentation/usage/gpio/)
 
 ### Cool Stuff - Will Check Later
- - [Sonic Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi)
- - [WebCam](https://www.raspberrypi.org/documentation/usage/webcams/README.md)
- - [Camera Modules](https://www.raspberrypi.org/documentation/usage/camera/README.md)
- - [Laser Tripwire](https://projects.raspberrypi.org/en/projects/laser-tripwire)
- - [Google Voice Stuff](https://projects.raspberrypi.org/en/projects/google-voice-aiy)
- - [GPIO Music Box](https://projects.raspberrypi.org/en/projects/gpio-music-box)
- - [Temp Log](https://projects.raspberrypi.org/en/projects/temperature-log)
- - [Echolocation ](https://projects.raspberrypi.org/en/projects/see-like-a-bat)
- - [Sonic Pi and Ultrasonic Sensor](https://projects.raspberrypi.org/en/projects/ultrasonic-theremin)
- - [Photo Booth](https://projects.raspberrypi.org/en/projects/the-all-seeing-pi)
- - [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
+
+- [Sonic Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi)
+- [WebCam](https://www.raspberrypi.org/documentation/usage/webcams/README.md)
+- [Camera Modules](https://www.raspberrypi.org/documentation/usage/camera/README.md)
+- [Laser Tripwire](https://projects.raspberrypi.org/en/projects/laser-tripwire)
+- [Google Voice Stuff](https://projects.raspberrypi.org/en/projects/google-voice-aiy)
+- [GPIO Music Box](https://projects.raspberrypi.org/en/projects/gpio-music-box)
+- [Temp Log](https://projects.raspberrypi.org/en/projects/temperature-log)
+- [Echolocation ](https://projects.raspberrypi.org/en/projects/see-like-a-bat)
+- [Sonic Pi and Ultrasonic Sensor](https://projects.raspberrypi.org/en/projects/ultrasonic-theremin)
+- [Photo Booth](https://projects.raspberrypi.org/en/projects/the-all-seeing-pi)
+- [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
 
 ## References
+
 - Libraries
   - [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
   - [RPI.GPIO](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
