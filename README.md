@@ -4,6 +4,9 @@
 ### [Led Blink and Led Button Porgrams](/Led-Program):
 <img src="https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Led-Switch_bb.png" alt="Led-Switch Diagram" width="350"/>
 
+#### Currently Working on
+- [Buzzer and Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
+  - Will add code and diagram when done
 
 ### Will Use/Add
 - [Circuit Symbols](https://www.electronicshub.org/symbols/)
