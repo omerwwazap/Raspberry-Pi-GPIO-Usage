@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 import time
 
 
-#With Borad Numbers 1 2
+#With Board Numbers 1 2
 #                   3 4
 #GPIO.setmode(GPIO.BOARD)
 
@@ -12,14 +12,14 @@ import time
 #GPIO.setmode(GPIO.BCM)
 GPIO.setmode(GPIO.BCM)
 
-#Disable Usage warnigs etc.
+#Disable Usage warnings etc.
 GPIO.setwarnings(False)
 
 #Low 0volts High 3.3volts
 GPIO.setup(18, GPIO.OUT, initial=GPIO.LOW)
 
 #pull_up_down = Change?
-#initilize sietch change?
+#initialize switch change?
 GPIO.setup(23, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 #Blink 5 times
@@ -37,13 +37,13 @@ def switch(ev=None):
     led_on = not led_on
     GPIO.output(18, GPIO.HIGH if led_on else GPIO.LOW)
 
-#catch siwtch press
+#catch switch press
 #FALLING open on push
 #RISING open on lift
-#bbouncetime stop getting event for 300ms
+#bouncetime stop getting event for 300ms
 GPIO.add_event_detect(23, GPIO.RISING, callback=switch, bouncetime=300)
 
-#if not infine loop will leav program.
+#if not infinite loop will leave program.
 #while True:
 #    time.sleep(1)
 for secs in range(20, 0, -1):

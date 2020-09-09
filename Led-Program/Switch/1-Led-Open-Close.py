@@ -12,7 +12,7 @@ def blinkLed(pin_NO):
     return
 
 
-#With Borad Numbers 1 2
+#With Board Numbers 1 2
 #                   3 4
 #GPIO.setmode(GPIO.BOARD)
 
