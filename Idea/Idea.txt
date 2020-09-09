@@ -3,4 +3,7 @@ Combination Projects
 2. LED - Distance Sensor
 3. Sound Sensor - Buzzer -> Alarm
 4. Sound Sensor - LED -> sound activated LED
-5. .....
+5. Motion sensor - Buzzer -> Bird repellent
+	- Found this out by accident while testing out a simple Buzzer program.
+	- Have tested it twice after the initial find worked every time
+
