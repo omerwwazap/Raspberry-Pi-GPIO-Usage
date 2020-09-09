@@ -29,4 +29,5 @@
   - Ultrasonic Distance Sensor
   - Buzzer
   - PIR Motion Sensor
+  - Sound Sensor
   - 6 Axis Acceleration and Gyro Sensor
