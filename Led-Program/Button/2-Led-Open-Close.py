@@ -9,4 +9,7 @@ for i in range(0, 10):
     sleep(1)
     led.off()
     sleep(1)
-    
+
+#cool
+#while True:
+#    LED.blink()
