@@ -27,6 +27,7 @@
 - [Resistance Calculation with picture - Turkish](http://ekinoks.cu.edu.tr/direnc/)
 
 ### Rasbery Pi 3 GPIO Pin Layout
+- [Interactive Pinout Diagram.](https://pinout.xyz/#)
 - [Basic Photo for Pin/GPIO Numbers/Names](https://maker.robotistan.com/wp-content/uploads/2015/09/GPIO_Pi2.jpg)
 - [Official page of raspberrypi](https://www.raspberrypi.org/documentation/usage/gpio/)
 
