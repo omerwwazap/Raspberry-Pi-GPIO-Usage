@@ -28,4 +28,5 @@
   - Temperature and Humidity Sensor
   - Ultrasonic Distance Sensor
   - Buzzer
+  - PIR Motion Sensor
   - 6 Axis Acceleration and Gyro Sensor
