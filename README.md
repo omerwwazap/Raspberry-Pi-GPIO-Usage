@@ -11,8 +11,8 @@
 ### Buzzer, LED and Button Combinaiton Projects
 [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program) | [Buzzer Traffic Lights](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light) | [Reaction Game](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program)
 |:-------------------------:|:-------------------------:|:-------------------------:|
- ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program/Reaction%20Game_bb.png)
- 
+ ![Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![Buzzer-Light](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png) | ![Reaction](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program/Reaction%20Game_bb.png)
+
 #### Currently Working on
 
 - LED Auto and LED-Button Stuff -> **Complete**
