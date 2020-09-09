@@ -11,15 +11,17 @@
 - Find a program to draw the Circuits
 - Add Photos if possible/necessary
 - **Work with** (alreay have these)
-  - RFID/NFC
-  - Stepper, Servo and DC Motors
-  - LDR Sensor
-  - Temperature and Humidity Sensor
-  - Ultrasonic Distance Sensor
-  - Buzzer
-  - PIR Motion Sensor
-  - Sound Sensor
-  - 6 Axis Acceleration and Gyro Sensor
+  - RFID/NFC - Rc522
+  - Stepper - 28 BYJ-48 Motor / ULN2003A Driver Card
+  - DC Motors -  Mini 3-6 V DC Motor / L293D Motor Driver
+  - Servo Motor - Tower Pro SG90 RC Mini
+  - LDR Sensor - 5mm LDR Sensor
+  - Temperature and Humidity Sensor - DHT11
+  - Ultrasonic Distance Sensor - HC-SR04
+  - Buzzer - TMB12A12
+  - PIR Motion Sensor - HC-SR501
+  - Sound Sensor - KY-038
+  - 6 Axis Acceleration and Gyro Sensor - MPU6050
 
 ### Resistance calculator 
 - [Resistance Calculation with picture - Turkish](http://ekinoks.cu.edu.tr/direnc/)
