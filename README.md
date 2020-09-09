@@ -4,9 +4,9 @@
 
 ### [Led Blink and Led Button Porgrams](/Led-Program):
 
-[Led-Switch Diagram  (Guide)](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch)           |  [Led-Button Diagram (Self Made Circuit and Code)](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button)
-:-------------------------:|:-------------------------:
-![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png)
+[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram ](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | [Buzzer Light](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
 
 #### Currently Working on
 
