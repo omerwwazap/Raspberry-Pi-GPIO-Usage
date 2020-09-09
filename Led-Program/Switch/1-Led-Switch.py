@@ -1,3 +1,4 @@
+#LED Short leg is GROUND 
 import RPi.GPIO as GPIO
 import time
 

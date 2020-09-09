@@ -1,3 +1,4 @@
+#Short leg is GROUND 
 from gpiozero import LED
 from time import sleep
 
