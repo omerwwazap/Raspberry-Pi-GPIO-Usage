@@ -21,7 +21,8 @@
 - Up Next - LDR Sensor
 - Up Next - PIR Sensor
 - Next - Ultrasonic Distance Sensor
-- ....
+- ...
+- Will be updated as i do the others
 
 ### Will Use/Add
 
@@ -45,6 +46,7 @@
 ### Resistance calculator
 
 - [Resistance Calculation with picture - Turkish](http://ekinoks.cu.edu.tr/direnc/)
+- [Tubitak](http://bilimteknik.tubitak.gov.tr/sites/default/files/gelisim/elektronik/resistor.html)
 
 ### Raspberry Pi 3 GPIO Pin Layout
 
@@ -90,4 +92,6 @@
 - [Reaction Game](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
 - [Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
 - [Light Blink Switch - English](https://www.youtube.com/watch?v=U6N5pRDOrg4)
+- [RaspberryPiIVBeginners](https://www.youtube.com/playlist?list=PLFA4eZ_bEubl_zVY-Dikk7Rpttk2xeWFv)
+- [RaspberryPiIVBeginners2](https://www.youtube.com/playlist?list=PL5A424764EDE3BF98)
 - Will be added as  i do projects
