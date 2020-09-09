@@ -4,6 +4,14 @@
 ### [Led Blink and Led Button Porgrams](/Led-Program):
 <img src="https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Led-Switch_bb.png" alt="Led-Switch Diagram" width="350"/>
 
+#### Currently Working on
+- [Buzzer and Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
+  - Will add code and diagram when done
+- Up next [Quick-Reaction-Game](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
+- Next - LDR Sensor
+- Next - PIR Sensor
+- Next - Ultrasonic Distance Sensor 
+- ....
 
 ### Will Use/Add
 - [Circuit Symbols](https://www.electronicshub.org/symbols/)
@@ -45,6 +53,9 @@
  - [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
 
 ## References
+- Libraries
+  - [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
+  - [RPI.GPIO](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
 - [Light Blink Basic Physical - Turkish ](https://www.youtube.com/watch?v=IX-0KgDSU7M&list=PLDRcccSktQd6zXC4_ri_xxMsdgrH5MCPS&index=6)
   - [Code Explnaiton - Turkish ](https://www.youtube.com/watch?v=mrqEWLwpShM)
   - [Blog Post of these videos - Turkish ](https://maker.robotistan.com/raspberry-pi-dersleri-4-gpio-ile-led-kontrolu/)
