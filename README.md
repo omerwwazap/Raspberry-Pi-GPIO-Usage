@@ -19,7 +19,7 @@
 - Buzzer and Traffic Lights -> **Complete**
 - Quick Reaction Game-> **Complete**
 - Up Next - LDR Sensor
-- Next - PIR Sensor
+- Up Next - PIR Sensor
 - Next - Ultrasonic Distance Sensor
 - ....
 
