@@ -2,12 +2,17 @@
 
  RaspberryPi Basic GPIO Usage - Hobby
 
-### [Led Blink and Led Button Programs](/Led-Program)
+### Basic Led Blink and Led Button Programs
 
-[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program) | [Buzzer Traffic Lights](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light) | [Reaction Game](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program)
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program/Reaction%20Game_bb.png)
+[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | 
+|:-------------------------:|:-------------------------:
+![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) |
 
+### Buzzer, LED and Button Combinaiton Projects
+[Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program) | [Buzzer Traffic Lights](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light) | [Reaction Game](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program)
+|:-------------------------:|:-------------------------:|:-------------------------:|
+ ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program/Reaction%20Game_bb.png)
+ 
 #### Currently Working on
 
 - LED Auto and LED-Button Stuff -> **Complete**
