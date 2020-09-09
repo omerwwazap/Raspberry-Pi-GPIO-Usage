@@ -47,6 +47,15 @@
 - [Basic Photo for Pin/GPIO Numbers/Names](https://maker.robotistan.com/wp-content/uploads/2015/09/GPIO_Pi2.jpg)
 - [Official page of raspberrypi](https://www.raspberrypi.org/documentation/usage/gpio/)
 
+### Ideas to do after learining suffiecnt knowlge
+1. LED - Motion Sensor
+2. LED - Distance Sensor
+3. Sound Sensor - Buzzer -> Alarm
+4. Sound Sensor - LED -> Sound activated LED
+5. Motion sensor - Buzzer -> Bird Repellent :) (Wonder if it is bad for them)
+	- Found this out by accident while testing out a simple Buzzer program.
+	- Have tested it twice after the initial find worked every time
+
 ### Cool Stuff - Will Check Later
 
 - [Sonic Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi)
