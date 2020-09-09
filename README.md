@@ -4,14 +4,13 @@
 
 ### [Led Blink and Led Button Porgrams](/Led-Program):
 
-[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram ](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | [Buzzer Light](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
+[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram ](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | [Buzzer Traffic Lighst](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
 
 #### Currently Working on
-
-- [Buzzer and Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
-  - Will add code and diagram when done
+- LED Auto and LED-Button Stuff -> **Complete**
+- Buzzer and Traffic Lights -> **Complete**
 - Up next [Quick-Reaction-Game](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
 - Next - LDR Sensor
 - Next - PIR Sensor
@@ -80,5 +79,6 @@
   - [Code Explnaiton - Turkish ](https://www.youtube.com/watch?v=mrqEWLwpShM)
   - [Blog Post of these videos - Turkish ](https://maker.robotistan.com/raspberry-pi-dersleri-4-gpio-ile-led-kontrolu/)
 - [Remote-Access](https://www.raspberrypi.org/documentation/remote-access/)
+- [Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
 - [Light Blink Switch - English ](https://www.youtube.com/watch?v=U6N5pRDOrg4)
 - Will be added as  i do projects
