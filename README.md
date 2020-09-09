@@ -1,14 +1,15 @@
 # Raspberry Pi Basic GPIO
 
- RasberyPi Basic GPIO Usage - Hobby
+ RaspberryPi Basic GPIO Usage - Hobby
 
-### [Led Blink and Led Button Porgrams](/Led-Program):
+### [Led Blink and Led Button Programs](/Led-Program)
 
-[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram ](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | [Buzzer Traffic Lighst](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
+[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | [Buzzer Traffic Lights](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png)
 
 #### Currently Working on
+
 - LED Auto and LED-Button Stuff -> **Complete**
 - Buzzer and Traffic Lights -> **Complete**
 - Up next [Quick-Reaction-Game](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
@@ -23,7 +24,7 @@
   - Hey i'm a software engineer and have not used these in ages.
 - Find a program to draw the Circuits
 - Add Photos if possible/necessary
-- **Work with** (alreay have these)
+- **Work with** (already have these)
   - RFID/NFC - Rc522
   - Stepper - 28 BYJ-48 Motor / ULN2003A Driver Card
   - DC Motors -  Mini 3-6 V DC Motor / L293D Motor Driver
@@ -40,20 +41,21 @@
 
 - [Resistance Calculation with picture - Turkish](http://ekinoks.cu.edu.tr/direnc/)
 
-### Rasbery Pi 3 GPIO Pin Layout
+### Raspberry Pi 3 GPIO Pin Layout
 
-- [Interactive Pinout Diagram.](https://pinout.xyz/#)
+- [Interactive Pin Diagram.](https://pinout.xyz/#)
 - [Basic Photo for Pin/GPIO Numbers/Names](https://maker.robotistan.com/wp-content/uploads/2015/09/GPIO_Pi2.jpg)
-- [Official page of raspberrypi](https://www.raspberrypi.org/documentation/usage/gpio/)
+- [Official page of raspberry pi](https://www.raspberrypi.org/documentation/usage/gpio/)
 
-### Ideas to do after learining suffiecnt knowlge
+### Ideas to do after learning sufficient knowledge
+
 1. LED - Motion Sensor
 2. LED - Distance Sensor
 3. Sound Sensor - Buzzer -> Alarm
 4. Sound Sensor - LED -> Sound activated LED
 5. Motion sensor - Buzzer -> Bird Repellent :) (Wonder if it is bad for them)
-	- Found this out by accident while testing out a simple Buzzer program.
-	- Have tested it twice after the initial find worked every time
+  - Found this out by accident while testing out a simple Buzzer program.
+  - Have tested it twice after the initial find worked every time
 
 ### Cool Stuff - Will Check Later
 
@@ -64,21 +66,22 @@
 - [Google Voice Stuff](https://projects.raspberrypi.org/en/projects/google-voice-aiy)
 - [GPIO Music Box](https://projects.raspberrypi.org/en/projects/gpio-music-box)
 - [Temp Log](https://projects.raspberrypi.org/en/projects/temperature-log)
-- [Echolocation ](https://projects.raspberrypi.org/en/projects/see-like-a-bat)
+- [Echolocation](https://projects.raspberrypi.org/en/projects/see-like-a-bat)
 - [Sonic Pi and Ultrasonic Sensor](https://projects.raspberrypi.org/en/projects/ultrasonic-theremin)
 - [Photo Booth](https://projects.raspberrypi.org/en/projects/the-all-seeing-pi)
 - [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
 
 ## References
+
 - Diagrams all made by me using  [Fritzing](https://fritzing.org/)
 - Libraries
   - [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
   - [RPI.GPIO](https://www.raspberrypi.org/documentation/usage/gpio/python/README.md)
 - [Official Stuff of gpiozero](https://gpiozero.readthedocs.io/en/stable/recipes.html)
-- [Light Blink Basic Physical - Turkish ](https://www.youtube.com/watch?v=IX-0KgDSU7M&list=PLDRcccSktQd6zXC4_ri_xxMsdgrH5MCPS&index=6)
-  - [Code Explnaiton - Turkish ](https://www.youtube.com/watch?v=mrqEWLwpShM)
-  - [Blog Post of these videos - Turkish ](https://maker.robotistan.com/raspberry-pi-dersleri-4-gpio-ile-led-kontrolu/)
+- [Light Blink Basic Physical - Turkish](https://www.youtube.com/watch?v=IX-0KgDSU7M&list=PLDRcccSktQd6zXC4_ri_xxMsdgrH5MCPS&index=6)
+  - [Code Explanation - Turkish](https://www.youtube.com/watch?v=mrqEWLwpShM)
+  - [Blog Post of these videos - Turkish](https://maker.robotistan.com/raspberry-pi-dersleri-4-gpio-ile-led-kontrolu/)
 - [Remote-Access](https://www.raspberrypi.org/documentation/remote-access/)
 - [Traffic Lights](https://projects.raspberrypi.org/en/projects/physical-computing)
-- [Light Blink Switch - English ](https://www.youtube.com/watch?v=U6N5pRDOrg4)
+- [Light Blink Switch - English](https://www.youtube.com/watch?v=U6N5pRDOrg4)
 - Will be added as  i do projects
