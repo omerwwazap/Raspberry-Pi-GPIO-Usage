@@ -31,10 +31,23 @@
 - [Basic Photo for Pin/GPIO Numbers/Names](https://maker.robotistan.com/wp-content/uploads/2015/09/GPIO_Pi2.jpg)
 - [Official page of raspberrypi](https://www.raspberrypi.org/documentation/usage/gpio/)
 
+### Cool Stuff - Will Check Later
+ - [Sonic Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi)
+ - [WebCam](https://www.raspberrypi.org/documentation/usage/webcams/README.md)
+ - [Camera Modules](https://www.raspberrypi.org/documentation/usage/camera/README.md)
+ - [Laser Tripwire](https://projects.raspberrypi.org/en/projects/laser-tripwire)
+ - [Google Voice Stuff](https://projects.raspberrypi.org/en/projects/google-voice-aiy)
+ - [GPIO Music Box](https://projects.raspberrypi.org/en/projects/gpio-music-box)
+ - [Temp Log](https://projects.raspberrypi.org/en/projects/temperature-log)
+ - [Echolocation ](https://projects.raspberrypi.org/en/projects/see-like-a-bat)
+ - [Sonic Pi and Ultrasonic Sensor](https://projects.raspberrypi.org/en/projects/ultrasonic-theremin)
+ - [Photo Booth](https://projects.raspberrypi.org/en/projects/the-all-seeing-pi)
+ - [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
+
 ## References
 - [Light Blink Basic Physical - Turkish ](https://www.youtube.com/watch?v=IX-0KgDSU7M&list=PLDRcccSktQd6zXC4_ri_xxMsdgrH5MCPS&index=6)
   - [Code Explnaiton - Turkish ](https://www.youtube.com/watch?v=mrqEWLwpShM)
   - [Blog Post of these videos - Turkish ](https://maker.robotistan.com/raspberry-pi-dersleri-4-gpio-ile-led-kontrolu/)
-  
+- [Remote-Access](https://www.raspberrypi.org/documentation/remote-access/)
 - [Light Blink Switch - English ](https://www.youtube.com/watch?v=U6N5pRDOrg4)
 - Will be added as  i do projects
