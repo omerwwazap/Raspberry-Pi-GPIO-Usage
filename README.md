@@ -84,6 +84,7 @@ All Diagrams are made by me and are tested.
 - [Sonic Pi and Ultrasonic Sensor](https://projects.raspberrypi.org/en/projects/ultrasonic-theremin)
 - [Photo Booth](https://projects.raspberrypi.org/en/projects/the-all-seeing-pi)
 - [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
+- [Parent Detector](https://projects.raspberrypi.org/en/projects/parent-detector)
 
 ## References
 
