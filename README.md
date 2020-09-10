@@ -20,8 +20,9 @@ All Diagrams are made by me and are tested.
 - LED Auto and LED-Button Stuff -> **Complete**
 - Buzzer and Traffic Lights -> **Complete**
 - Quick Reaction Game-> **Complete**
-- Up Next - LDR Sensor
-- Up Next - PIR Sensor
+- up Next Motion sensor
+- Next - LDR Sensor
+- Next - PIR Sensor
 - Next - Ultrasonic Distance Sensor
 - ...
 - Will be updated as i do the others
