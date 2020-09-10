@@ -11,14 +11,16 @@ All Diagrams are made by me and are tested.
 ![Switch](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![Button](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) |
 
 ### Buzzer, LED and Button Combinaiton Projects
+
 [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Buzzer-Program/Basic%20Buzzer) | [Buzzer Traffic Lights](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light) | [Reaction Game](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program)
-|:-------------------------:|:-------------------------:|:-------------------------:|
- ![Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) |![Buzzer-Light](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png) | ![Reaction](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program/Reaction%20Game_bb.png)
+|:-------------------------:|:-------------------------:|:-------------------------:
+![Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![Buzzer-Light](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png) | ![Reaction](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program/Reaction%20Game_bb.png)
 
 ### PIR Motion Sensor Projects
-[Basic Motion Sensor](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Pir-Motion-Program/Basic-PIR-Motion)|[Motion-Buzzer -> Bird Repellent](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Pir-Motion-Program/PIR-Buzzer-Bird%20Repellent)
-|:-------------------------:|:-------------------------:|
-![Motion](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/Basic-PIR-Motion/MotionSensor_bb.png)|![Repellent_bb](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/PIR-Buzzer-Bird%20Repellent/Bird%20Repellent_bb.png)
+
+[Basic Motion Sensor](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Pir-Motion-Program/Basic-PIR-Motion) | [Motion-Buzzer -> Bird Repellent](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Pir-Motion-Program/PIR-Buzzer-Bird%20Repellent)
+|:-------------------------:|:-------------------------:
+![Motion](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/Basic-PIR-Motion/MotionSensor_bb.png) | ![Repellent_bb](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/PIR-Buzzer-Bird%20Repellent/Bird%20Repellent_bb.png)
 
 #### Currently Working on
 
