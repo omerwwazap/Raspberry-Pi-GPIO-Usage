@@ -6,7 +6,7 @@ All Diagrams are made by me and are tested.
 
 ### Basic Led Blink and Led Button Programs
 
-[Led-Switch Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led-Button Diagram](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | 
+[Led Switch](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led Button](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | 
 |:-------------------------:|:-------------------------:
 ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) |
 
@@ -15,12 +15,17 @@ All Diagrams are made by me and are tested.
 |:-------------------------:|:-------------------------:|:-------------------------:|
  ![Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Basic%20Buzzer/Buzzer_bb.png) | ![Buzzer-Light](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light/Traffic%20Light_bb.png) | ![Reaction](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program/Reaction%20Game_bb.png)
 
+### PIR Motion Sensor Projects
+[Basic Motion Sensor ](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Pir-Motion-Program)|[Basic Motion Sensor ](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Pir-Motion-Program)
+|:-------------------------:|:-------------------------:|
+![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/MotionSensor_bb.png)|![](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/MotionSensor_bb.png)
+
 #### Currently Working on
 
 - LED Auto and LED-Button Stuff -> **Complete**
 - Buzzer and Traffic Lights -> **Complete**
 - Quick Reaction Game-> **Complete**
-- Up Next Motion sensor
+- Working on Motion sensor
 - Next - LDR Sensor
 - Next - PIR Sensor
 - Next - Ultrasonic Distance Sensor
