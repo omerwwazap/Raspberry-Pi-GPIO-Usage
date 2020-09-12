@@ -1,16 +1,16 @@
 # Raspberry Pi Basic GPIO
 
 RaspberryPi Basic GPIO Usage - Hobby
- 
+
 All Diagrams are made by me and are tested.
 
 ### Basic Led Blink and Led Button Programs
 
-[Led Switch](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led Button](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) | 
+[Led Switch](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led Button](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) |
 |:-------------------------:|:-------------------------:
 ![Switch](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![Button](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) |
 
-### Buzzer, LED and Button Combinaiton Projects
+### Buzzer, LED and Button Combination Projects
 
 [Basic Buzzer](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Buzzer-Program/Basic%20Buzzer) | [Buzzer Traffic Lights](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Buzzer-Program/Buzzer-Light) | [Reaction Game](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Reaction-Game-Program)
 |:-------------------------:|:-------------------------:|:-------------------------:
@@ -65,11 +65,11 @@ All Diagrams are made by me and are tested.
 
 ### Ideas to do after learning sufficient knowledge
 
-1. **Complete**  LED - Motion Sensor **Complete** 
+1. **Complete**  LED - Motion Sensor **Complete**
 2. LED - Distance Sensor
 3. Sound Sensor - Buzzer -> Alarm
 4. Sound Sensor - LED -> Sound activated LED
-5. **Complete** Motion sensor - Buzzer -> Bird Repellent :) (Wonder if it is bad for them) **Complete** 
+5. **Complete** Motion sensor - Buzzer -> Bird Repellent :) (Wonder if it is bad for them) **Complete**
    - Found this out by accident while testing out a simple Buzzer program.
    - Have tested it twice after the initial find worked every time
 
