@@ -22,14 +22,27 @@ All Diagrams are made by me and are tested.
 |:-------------------------:|:-------------------------:
 ![Motion](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/Basic-PIR-Motion/MotionSensor_bb.png) | ![Repellent_bb](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Pir-Motion-Program/PIR-Buzzer-Bird%20Repellent/Bird%20Repellent_bb.png)
 
+### Ultrasonic Distance Sensor Projects
+[SoncicSensor and LED](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Ultrasonic-Distance-Program/Sonic-Sensor-Led) | [Soncic Sensor](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/tree/master/Ultrasonic-Distance-Program/SonicSensor)
+|:-------------------------:|:-------------------------:
+![SoncicSensor-LED](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Ultrasonic-Distance-Program/Sonic-Sensor-Led/SoncicSensor-LED_bb.png) | ![SoncicSensor ](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Ultrasonic-Distance-Program/SonicSensor/SoncicSensor_bb.png)
+
 #### Currently Working on
 
-- LED Auto and LED-Button Stuff -> **Complete**
-- Buzzer and Traffic Lights -> **Complete**
+- LED Auto and LED-Button Basics -> **Complete**
+- Buzzer Basics and Traffic Lights -> **Complete**
 - Quick Reaction Game -> **Complete**
-- Working on Motion sensor **Mostly Complete**
-- Next - LDR Sensor
-- Next - Ultrasonic Distance Sensor
+- Motion sensor Basics -> **Complete**
+- Ultrasonic Distance Sensor Basics-> **Complete**
+- Up Next - LDR Sensor Basics
+- Next - Temperature and Humidity Sensor Basics
+- Next - Sound/Microphone Sensor Basics
+- Next - RFID/NFC Basics
+- Next - Servo Basics
+- Next - DC Motor Basics
+- Next - Stepper Motor Basics
+- Next - Acceleration and Gyro Sensor
+- Next - Relay Basics
 - ...
 - Will be updated as i do the others
 
@@ -51,6 +64,7 @@ All Diagrams are made by me and are tested.
   - PIR Motion Sensor - HC-SR501
   - Sound Sensor - KY-038
   - 6 Axis Acceleration and Gyro Sensor - MPU6050
+  - 5v Single-Channel Relay
 
 ### Resistance calculator
 
