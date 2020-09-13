@@ -76,6 +76,7 @@ All Diagrams are made by me and are tested.
 - [Interactive Pin Diagram.](https://pinout.xyz/#)
 - [Basic Photo for Pin/GPIO Numbers/Names](https://maker.robotistan.com/wp-content/uploads/2015/09/GPIO_Pi2.jpg)
 - [Official page of raspberry pi](https://www.raspberrypi.org/documentation/usage/gpio/)
+- [Raspberry GPIO and Other Basics](https://learn.sparkfun.com/tutorials/raspberry-gpio)
 
 ### Ideas to do after learning sufficient knowledge
 
