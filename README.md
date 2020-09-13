@@ -80,14 +80,11 @@ All Diagrams are made by me and are tested.
 
 ### Ideas to do after learning sufficient knowledge
 
-1. **Complete**  LED - Motion Sensor **Complete**
-2. **Complete**  LED - Distance Sensor **Complete**
-3. **Complete**  Sound Sensor - Buzzer -> Alarm **Complete**
-4. Sound Sensor - LED -> Sound activated LED
-5. **Complete** Motion sensor - Buzzer -> Bird Repellent :) (Wonder if it is bad for them) **Complete**
+1. Sound Sensor - LED -> Sound activated LED
+2. **Complete** Motion sensor - Buzzer -> Bird Repellent :) (Wonder if it is bad for them) **Complete**
    - Found this out by accident while testing out a simple Buzzer program.
    - Have tested it twice after the initial find worked every time
-6. Mapping of Unknown Environment 
+3. Mapping of Unknown Environment 
    - Ultrasonic sensor on a Servo motor -> plot output
   
 ### Cool Stuff - Will Check Later
