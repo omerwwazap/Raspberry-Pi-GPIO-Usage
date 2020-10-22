@@ -34,8 +34,8 @@ All Diagrams are made by me and are tested.
 - Quick Reaction Game -> **Complete**
 - Motion sensor Basics -> **Complete**
 - Ultrasonic Distance Sensor Basics-> **Complete**
-- Up Next - LDR Sensor Basics
-- Next - Temperature and Humidity Sensor Basics
+- Up Next - Temperature and Humidity Sensor Basics
+- Next - LDR Sensor Basics
 - Next - Sound/Microphone Sensor Basics
 - Next - RFID/NFC Basics
 - Next - Servo Basics
