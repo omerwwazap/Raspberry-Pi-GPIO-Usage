@@ -53,12 +53,12 @@ All Diagrams are made by me and are tested.
 - Find a program to draw the Circuits
 - Add Photos if possible/necessary
 - **Work with** (already have these)
-  - RFID/NFC - Rc522
+  - Temperature and Humidity Sensor - DHT11 and DS18B20 
   - Stepper - 28 BYJ-48 Motor / ULN2003A Driver Card
   - DC Motors -  Mini 3-6 V DC Motor / L293D Motor Driver
   - Servo Motor - Tower Pro SG90 RC Mini
   - LDR Sensor - 5mm LDR Sensor
-  - Temperature and Humidity Sensor - DHT11
+  - RFID/NFC - Rc522
   - Ultrasonic Distance Sensor - HC-SR04
   - Buzzer - TMB12A12
   - PIR Motion Sensor - HC-SR501
