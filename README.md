@@ -102,7 +102,7 @@ All Diagrams are made by me and are tested.
 - [Password Generator](https://projects.raspberrypi.org/en/projects/password-generator)
 - [Parent Detector](https://projects.raspberrypi.org/en/projects/parent-detector)
 - [Mapping of Environment](https://www.hackster.io/shiva-s-r/mapping-of-unknown-environment-9b82cd)
-- [ds18b20 Temperature Sensor]https://bigl.es/ds18b20-temperature-sensor-with-python-raspberry-pi/
+- [DS18B20 Temperature Sensor](https://bigl.es/ds18b20-temperature-sensor-with-python-raspberry-pi/)
 
 ## References
 
