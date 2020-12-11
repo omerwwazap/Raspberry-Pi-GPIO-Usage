@@ -89,6 +89,7 @@ All Diagrams are made by me and are tested.
   
 ### Cool Stuff - Will Check Later
 
+- [GPIOZero Library Demo](https://upscfever.com/upsc-fever/en/programming/iot/17.html)
 - [Sonic Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi)
 - [WebCam](https://www.raspberrypi.org/documentation/usage/webcams/README.md)
 - [Camera Modules](https://www.raspberrypi.org/documentation/usage/camera/README.md)
