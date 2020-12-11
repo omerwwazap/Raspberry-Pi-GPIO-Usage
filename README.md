@@ -123,4 +123,6 @@ All Diagrams are made by me and are tested.
 - [RaspberryPiIVBeginners](https://www.youtube.com/playlist?list=PLFA4eZ_bEubl_zVY-Dikk7Rpttk2xeWFv)
 - [RaspberryPiIVBeginners2](https://www.youtube.com/playlist?list=PL5A424764EDE3BF98)
 - [LDR](https://projects.raspberrypi.org/en/projects/physical-computing/10)
+- [Raspberry pi 3 LDR Sensor Programming](https://www.electroniclinic.com/raspberry-pi-3-ldr-sensor-circuit-and-python-programming/)
+- [Pi Light Sensor](https://pimylifeup.com/raspberry-pi-light-sensor/)
 - Will be added as  i do projects
