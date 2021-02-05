@@ -2,7 +2,7 @@
 
 RaspberryPi Basic GPIO Usage - Hobby
 
-All Diagrams are made by me and are tested.
+All Diagrams are made by me and are tested before i upload.
 
 ### Basic Led Blink and Led Button Programs
 
