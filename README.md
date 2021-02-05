@@ -51,6 +51,7 @@ All Diagrams are made by me and are tested before i upload.
 - [Circuit Symbols](https://www.electronicshub.org/symbols/)
   - Hey i'm a software engineer and have not used these in ages.
 - Find a program to draw the Circuits
+  - **Found it** [Fritzing](https://fritzing.org/)
 - Add Photos if possible/necessary
 - **Work with** (already have these)
   - Temperature and Humidity Sensor - DHT11 and DS18B20 
