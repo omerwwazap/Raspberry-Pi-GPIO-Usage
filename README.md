@@ -1,4 +1,4 @@
-# Raspberry Pi Basic GPIO
+# Raspberry Pi Basic GPIO [![Maintenance](https://img.shields.io/badge/Repo_Status-Semi_Active-yellow.svg)](https://shields.io/) 
 
 RaspberryPi Basic GPIO Usage - Hobby
 
