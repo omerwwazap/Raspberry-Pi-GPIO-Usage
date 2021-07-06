@@ -1,4 +1,4 @@
-# Raspberry Pi Basic GPIO [![Maintenance](https://img.shields.io/badge/Repo_Status-Semi_Active-yellow.svg)](https://shields.io/) 
+# Raspberry Pi Basic GPIO <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." /></a>
 
 RaspberryPi Basic GPIO Usage - Hobby
 
